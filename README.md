@@ -7,11 +7,11 @@ thanks to : Eng. Ahmed Reda and Eng. Amr Saleh
 
 
 
-Main Business Requirement
+# Main Business Requirement
 
 this project aims to Create an automated pipeline workflow from ingestion till visualization for COVID dataset
 
-Requirements
+# Requirements
 
 show on a map the top 10 ranking countries in death rate
 
@@ -19,7 +19,7 @@ show on a map the top 10 ranking countries in testing rate
 
 show the top 10 ranking countries in testing rate on a pie chart
 
-Technical Requirements
+# Technical Requirements
 
 Create Folder on the cloudera Virtual Machine
 
